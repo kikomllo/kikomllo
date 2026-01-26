@@ -24,7 +24,7 @@ Technical Toolbox
 
 ### - Featured Projects:
 
-#### 🎮 [Role Playing Engine (RPE)](https://github.com/kikomllo/RPE/tree/main)
+#### 🎮 [Role Playing Engine (RPE) - (WIP)](https://github.com/kikomllo/RPE/tree/main)
 A modular 2D Game Engine built in **Java**. I developed this to explore the secrets of **decoupled architecture**. It features a custom Game Loop and a data-driven system that loads game objects via JSON.
 * *Key Focus:* OOP Patterns, Component-Based Design, Systems Architecture.
 
