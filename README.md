@@ -16,7 +16,7 @@ Technical Toolbox
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++, Java, JavaScript (ES6+), GLSL, Python |
+| **Languages** | C++, Java, JavaScript (ES6+), GLSL |
 | **Graphics & Sim** | OpenGL, WebGL, Component-Based Architecture |
 | **Tools & Logic** | DOM Manipulation, Git, Linux, Script Automation |
 
